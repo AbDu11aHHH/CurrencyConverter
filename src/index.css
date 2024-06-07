@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+h1{
+  text-align: center;
+  font-family: QuickSand;
+  font-weight: 100;
+  font-size: 40px;
+}
+
+form >* {
+  margin: 5vh 2vw;
+}
+
+.text-inputs{
+  width: 30vw;
+  height: 100%;
+  border: none;
+  padding: 4px;
+  font-size: 15px;
+  outline: none;
+}
+
+.currs{
+  margin-left: 0;
+  border: none;
+  outline: none;
+}
+
+.inputs-box{
+  border: 1px solid black;
+  width: 40vw;
+  height: 5vh;
+  margin: 1vh auto;
+  border-radius: 50px;
+  padding: 2vh 2vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
